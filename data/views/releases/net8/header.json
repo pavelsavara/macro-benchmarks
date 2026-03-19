@@ -308,9 +308,9 @@
       "patch": 406,
       "channel": "8.0",
       "isPrerelease": false,
-      "benchmarkDateTime": "2026-03-19T19:00:56.395Z",
-      "ciRunId": "23310846155",
-      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23310846155"
+      "benchmarkDateTime": "2026-03-19T20:07:06.344Z",
+      "ciRunId": "23313402669",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23313402669"
     },
     {
       "sdkVersion": "8.0.407",
@@ -365,6 +365,23 @@
       "server-requests-warm",
       "time-to-create-dotnet-cold",
       "time-to-create-dotnet-warm",
+      "time-to-reach-managed-cold",
+      "time-to-reach-managed-warm",
+      "wasm-memory-size"
+    ],
+    "empty-browser": [
+      "compile-time",
+      "disk-size-assemblies",
+      "disk-size-native",
+      "download-size-cold",
+      "download-size-warm",
+      "memory-peak",
+      "server-requests-cold",
+      "server-requests-warm",
+      "time-to-create-dotnet-cold",
+      "time-to-create-dotnet-warm",
+      "time-to-exit-cold",
+      "time-to-exit-warm",
       "time-to-reach-managed-cold",
       "time-to-reach-managed-warm",
       "wasm-memory-size"
