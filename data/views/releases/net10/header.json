@@ -140,9 +140,9 @@
       "patch": 201,
       "channel": "10.0",
       "isPrerelease": false,
-      "benchmarkDateTime": "2026-03-19T18:36:37.479Z",
-      "ciRunId": "23308707593",
-      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23308707593"
+      "benchmarkDateTime": "2026-03-19T20:50:58.766Z",
+      "ciRunId": "23313406545",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23313406545"
     }
   ],
   "apps": {
@@ -173,6 +173,23 @@
       "server-requests-warm",
       "time-to-create-dotnet-cold",
       "time-to-create-dotnet-warm",
+      "time-to-reach-managed-cold",
+      "time-to-reach-managed-warm",
+      "wasm-memory-size"
+    ],
+    "empty-browser": [
+      "compile-time",
+      "disk-size-assemblies",
+      "disk-size-native",
+      "download-size-cold",
+      "download-size-warm",
+      "memory-peak",
+      "server-requests-cold",
+      "server-requests-warm",
+      "time-to-create-dotnet-cold",
+      "time-to-create-dotnet-warm",
+      "time-to-exit-cold",
+      "time-to-exit-warm",
       "time-to-reach-managed-cold",
       "time-to-reach-managed-warm",
       "wasm-memory-size"
