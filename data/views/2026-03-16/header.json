@@ -1,25 +1,31 @@
 {
-  "lastUpdated": "2026-03-19T21:02:04.545Z",
-  "activeRelease": "net11",
-  "releases": [
-    "net8",
-    "net9",
-    "net10"
+  "columns": [
+    {
+      "sdkVersion": "11.0.100-preview.3.26168.106",
+      "runtimeGitHash": "cf538052880522d398adf246ac80bb13de5d613a",
+      "aspnetCoreGitHash": "5b892736c24f973adbdc8a36542609dc403ed92d",
+      "sdkGitHash": "31f158e4da31a48ca3f9a3db7c01dc975064d560",
+      "vmrGitHash": "803eb28628f5623c108f1bf33504c86e19815821",
+      "runtimeCommitDateTime": "2026-03-18T01:25:19Z",
+      "runtimeCommitAuthor": "Dan Moseley",
+      "runtimeCommitMessage": "Handle Capture nodes in TryGetOrdinalCaseInsensitiveString (#124842)",
+      "aspnetCoreCommitDateTime": "2026-03-17T23:23:58Z",
+      "aspnetCoreVersion": "11.0.0-preview.3.26168.106",
+      "runtimePackVersion": "11.0.0-preview.3.26168.106",
+      "workloadVersion": "11.0.100-preview.3.26168.106",
+      "bootstrapSdkVersion": "11.0.100-preview.3.26161.119",
+      "releaseDate": "2026-03-18",
+      "major": 11,
+      "minor": 0,
+      "patch": 100,
+      "channel": "11.0",
+      "isPrerelease": true,
+      "benchmarkDateTime": "2026-03-19T20:44:48.721Z",
+      "ciRunId": "23313419105",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23313419105"
+    }
   ],
-  "weeks": [
-    "2026-03-16"
-  ],
-  "apps": [
-    "blazing-pizza",
-    "empty-blazor",
-    "empty-browser",
-    "havit-bootstrap",
-    "micro-benchmarks",
-    "mud-blazor",
-    "semi-avalonia",
-    "uno-gallery"
-  ],
-  "metrics": {
+  "apps": {
     "blazing-pizza": [
       "compile-time",
       "disk-size-assemblies",
@@ -47,6 +53,23 @@
       "server-requests-warm",
       "time-to-create-dotnet-cold",
       "time-to-create-dotnet-warm",
+      "time-to-reach-managed-cold",
+      "time-to-reach-managed-warm",
+      "wasm-memory-size"
+    ],
+    "empty-browser": [
+      "compile-time",
+      "disk-size-assemblies",
+      "disk-size-native",
+      "download-size-cold",
+      "download-size-warm",
+      "memory-peak",
+      "server-requests-cold",
+      "server-requests-warm",
+      "time-to-create-dotnet-cold",
+      "time-to-create-dotnet-warm",
+      "time-to-exit-cold",
+      "time-to-exit-warm",
       "time-to-reach-managed-cold",
       "time-to-reach-managed-warm",
       "wasm-memory-size"
@@ -93,22 +116,6 @@
       "time-to-reach-managed-warm",
       "wasm-memory-size"
     ],
-    "uno-gallery": [
-      "compile-time",
-      "disk-size-assemblies",
-      "disk-size-native",
-      "download-size-cold",
-      "download-size-warm",
-      "memory-peak",
-      "server-requests-cold",
-      "server-requests-warm",
-      "time-to-create-dotnet-cold",
-      "time-to-create-dotnet-warm",
-      "time-to-reach-managed-cold",
-      "time-to-reach-managed-warm",
-      "uno-walkthrough",
-      "wasm-memory-size"
-    ],
     "semi-avalonia": [
       "compile-time",
       "disk-size-assemblies",
@@ -125,7 +132,7 @@
       "time-to-reach-managed-warm",
       "wasm-memory-size"
     ],
-    "empty-browser": [
+    "uno-gallery": [
       "compile-time",
       "disk-size-assemblies",
       "disk-size-native",
@@ -136,35 +143,11 @@
       "server-requests-warm",
       "time-to-create-dotnet-cold",
       "time-to-create-dotnet-warm",
-      "time-to-exit-cold",
-      "time-to-exit-warm",
       "time-to-reach-managed-cold",
       "time-to-reach-managed-warm",
+      "uno-walkthrough",
       "wasm-memory-size"
     ]
   },
-  "dimensions": {
-    "runtimes": [
-      "mono"
-    ],
-    "presets": [
-      "aot",
-      "dev-loop",
-      "invariant",
-      "native-relink",
-      "no-jiterp",
-      "no-reflection-emit",
-      "no-workload"
-    ],
-    "profiles": [
-      "desktop",
-      "mobile"
-    ],
-    "engines": [
-      "chrome",
-      "firefox",
-      "node",
-      "v8"
-    ]
-  }
+  "week": "2026-03-16"
 }
