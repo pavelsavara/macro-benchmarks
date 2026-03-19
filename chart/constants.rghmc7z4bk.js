@@ -80,7 +80,9 @@ export const WALKTHROUGH_METRICS = new Set([
     'pizza-walkthrough', 'havit-walkthrough', 'mud-walkthrough', 'uno-walkthrough', 'semi-walkthrough',
 ]);
 // Metrics to skip for micro-benchmarks (not meaningful for internal throughput tests)
-export const MICROBENCH_SKIP_METRICS = new Set([]);
+export const MICROBENCH_SKIP_METRICS = new Set([
+    'compile-time', 'disk-size-native', 'disk-size-assemblies', 'download-size-cold', 'download-size-warm', 'server-requests-cold', 'server-requests-warm',
+]);
 // Release tick spacing
 export const RELEASE_TICK_MS = 3 * 86400000; // 3 days per release column (used for release-only mode)
 // Assert helper — throws instead of silently propagating missing data
