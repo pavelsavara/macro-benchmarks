@@ -1,22 +1,31 @@
 {
-  "lastUpdated": "2026-03-19T02:28:52.366Z",
-  "activeRelease": "net11",
-  "releases": [
-    "net10"
+  "columns": [
+    {
+      "sdkVersion": "11.0.100-preview.3.26168.106",
+      "runtimeGitHash": "cf538052880522d398adf246ac80bb13de5d613a",
+      "aspnetCoreGitHash": "5b892736c24f973adbdc8a36542609dc403ed92d",
+      "sdkGitHash": "31f158e4da31a48ca3f9a3db7c01dc975064d560",
+      "vmrGitHash": "803eb28628f5623c108f1bf33504c86e19815821",
+      "runtimeCommitDateTime": "2026-03-18T01:25:19Z",
+      "runtimeCommitAuthor": "Dan Moseley",
+      "runtimeCommitMessage": "Handle Capture nodes in TryGetOrdinalCaseInsensitiveString (#124842)",
+      "aspnetCoreCommitDateTime": "2026-03-17T23:23:58Z",
+      "aspnetCoreVersion": "11.0.0-preview.3.26168.106",
+      "runtimePackVersion": "11.0.0-preview.3.26168.106",
+      "workloadVersion": "11.0.100-preview.3.26168.106",
+      "bootstrapSdkVersion": "11.0.100-preview.3.26161.119",
+      "releaseDate": "2026-03-18",
+      "major": 11,
+      "minor": 0,
+      "patch": 100,
+      "channel": "11.0",
+      "isPrerelease": true,
+      "benchmarkDateTime": "2026-03-19T02:14:21.774Z",
+      "ciRunId": "23274221326",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23274221326"
+    }
   ],
-  "weeks": [
-    "2026-03-16",
-    "2026-03-09"
-  ],
-  "apps": [
-    "blazing-pizza",
-    "empty-blazor",
-    "havit-bootstrap",
-    "micro-benchmarks",
-    "mud-blazor",
-    "semi-avalonia"
-  ],
-  "metrics": {
+  "apps": {
     "blazing-pizza": [
       "compile-time",
       "disk-size-assemblies",
@@ -107,28 +116,5 @@
       "wasm-memory-size"
     ]
   },
-  "dimensions": {
-    "runtimes": [
-      "mono"
-    ],
-    "presets": [
-      "aot",
-      "dev-loop",
-      "invariant",
-      "native-relink",
-      "no-jiterp",
-      "no-reflection-emit",
-      "no-workload"
-    ],
-    "profiles": [
-      "desktop",
-      "mobile"
-    ],
-    "engines": [
-      "chrome",
-      "firefox",
-      "node",
-      "v8"
-    ]
-  }
+  "week": "2026-03-16"
 }
