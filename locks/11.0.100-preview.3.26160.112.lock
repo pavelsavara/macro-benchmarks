@@ -1,3 +1,0 @@
-{
-  "error": "MSB5022: The MSBuild task host does not support running tasks that perform IBuildEngine callbacks"
-}
