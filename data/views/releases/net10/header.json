@@ -1,22 +1,31 @@
 {
-  "lastUpdated": "2026-03-19T13:08:21.313Z",
-  "activeRelease": "",
-  "releases": [
-    "net8",
-    "net9",
-    "net10"
+  "columns": [
+    {
+      "sdkVersion": "10.0.100",
+      "runtimeGitHash": "60629d14374c56f1cb51819049ad1fa529307f8d",
+      "aspnetCoreGitHash": "7387de91234d3ef751fa50b3d1bfede4130213ff",
+      "sdkGitHash": "e6bc966cc3d1348265b0831c6daca23267169d8f",
+      "vmrGitHash": "b0f34d51fccc69fd334253924abd8d6853fad7aa",
+      "runtimeCommitDateTime": "2025-10-22T01:58:18Z",
+      "runtimeCommitAuthor": "github-actions[bot]",
+      "runtimeCommitMessage": "[release/10.0] Mark labels in x64 write barrier code as local/alt_entry (#120923)",
+      "aspnetCoreCommitDateTime": "2025-10-17T17:59:24Z",
+      "aspnetCoreVersion": "10.0.0",
+      "runtimePackVersion": "10.0.0",
+      "workloadVersion": "10.0.105",
+      "bootstrapSdkVersion": "10.0.100-rc.2.25502.107",
+      "releaseDate": "2025-11-11",
+      "major": 10,
+      "minor": 0,
+      "patch": 100,
+      "channel": "10.0",
+      "isPrerelease": false,
+      "benchmarkDateTime": "2026-03-19T12:54:25.761Z",
+      "ciRunId": "23293978705",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23293978705"
+    }
   ],
-  "weeks": [],
-  "apps": [
-    "blazing-pizza",
-    "empty-blazor",
-    "havit-bootstrap",
-    "micro-benchmarks",
-    "mud-blazor",
-    "semi-avalonia",
-    "uno-gallery"
-  ],
-  "metrics": {
+  "apps": {
     "blazing-pizza": [
       "compile-time",
       "disk-size-assemblies",
@@ -90,22 +99,6 @@
       "time-to-reach-managed-warm",
       "wasm-memory-size"
     ],
-    "uno-gallery": [
-      "compile-time",
-      "disk-size-assemblies",
-      "disk-size-native",
-      "download-size-cold",
-      "download-size-warm",
-      "memory-peak",
-      "server-requests-cold",
-      "server-requests-warm",
-      "time-to-create-dotnet-cold",
-      "time-to-create-dotnet-warm",
-      "time-to-reach-managed-cold",
-      "time-to-reach-managed-warm",
-      "uno-walkthrough",
-      "wasm-memory-size"
-    ],
     "semi-avalonia": [
       "compile-time",
       "disk-size-assemblies",
@@ -121,30 +114,23 @@
       "time-to-reach-managed-cold",
       "time-to-reach-managed-warm",
       "wasm-memory-size"
+    ],
+    "uno-gallery": [
+      "compile-time",
+      "disk-size-assemblies",
+      "disk-size-native",
+      "download-size-cold",
+      "download-size-warm",
+      "memory-peak",
+      "server-requests-cold",
+      "server-requests-warm",
+      "time-to-create-dotnet-cold",
+      "time-to-create-dotnet-warm",
+      "time-to-reach-managed-cold",
+      "time-to-reach-managed-warm",
+      "uno-walkthrough",
+      "wasm-memory-size"
     ]
   },
-  "dimensions": {
-    "runtimes": [
-      "mono"
-    ],
-    "presets": [
-      "aot",
-      "dev-loop",
-      "invariant",
-      "native-relink",
-      "no-jiterp",
-      "no-reflection-emit",
-      "no-workload"
-    ],
-    "profiles": [
-      "desktop",
-      "mobile"
-    ],
-    "engines": [
-      "chrome",
-      "firefox",
-      "node",
-      "v8"
-    ]
-  }
+  "release": "net10"
 }
