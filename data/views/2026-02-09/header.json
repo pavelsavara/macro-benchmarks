@@ -1,6 +1,30 @@
 {
   "columns": [
     {
+      "sdkVersion": "11.0.100-preview.2.26111.105",
+      "runtimeGitHash": "0b91113ce10b7b868f0df88a1c87ae8f2f04bbf0",
+      "aspnetCoreGitHash": "339f512cf2cec6d975b8dcd7d36e9b1958aaa244",
+      "sdkGitHash": "f44050fd77b0ada2439f217e98540329a8ee8e3c",
+      "vmrGitHash": "08842de65b053a88f85c71dd0417ff76fec89f7d",
+      "runtimeCommitDateTime": "2026-02-10T22:22:48Z",
+      "runtimeCommitAuthor": "Jakob Botsch Nielsen",
+      "runtimeCommitMessage": "JIT: Enable inlining of runtime async methods without awaits (#124183)",
+      "aspnetCoreCommitDateTime": "2026-02-11T00:41:54Z",
+      "aspnetCoreVersion": "11.0.0-preview.2.26111.105",
+      "runtimePackVersion": "11.0.0-preview.2.26111.105",
+      "workloadVersion": "11.0.100-preview.2.26159.112",
+      "bootstrapSdkVersion": "11.0.100-preview.1.26104.118",
+      "releaseDate": "2026-02-11",
+      "major": 11,
+      "minor": 0,
+      "patch": 100,
+      "channel": "11.0",
+      "isPrerelease": true,
+      "benchmarkDateTime": "2026-03-21T09:03:00.715Z",
+      "ciRunId": "23375413051",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23375413051"
+    },
+    {
       "sdkVersion": "11.0.100-preview.2.26111.109",
       "runtimeGitHash": "0b91113ce10b7b868f0df88a1c87ae8f2f04bbf0",
       "aspnetCoreGitHash": "339f512cf2cec6d975b8dcd7d36e9b1958aaa244",
