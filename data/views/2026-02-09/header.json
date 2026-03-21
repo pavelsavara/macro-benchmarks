@@ -1,6 +1,30 @@
 {
   "columns": [
     {
+      "sdkVersion": "11.0.100-preview.2.26116.101",
+      "runtimeGitHash": "08b21d2db2b51a73e8af45e470f940c146ce8e25",
+      "aspnetCoreGitHash": "23e6a3a457e88f4463154c2b63b8787e9bf195fc",
+      "sdkGitHash": "9aec80ad08c24284fd31bcad501473e1526b91c8",
+      "vmrGitHash": "34ac84aa231415e3730517bd47fb4a488a07d6e2",
+      "runtimeCommitDateTime": "2026-02-12T23:20:50Z",
+      "runtimeCommitAuthor": "Copilot",
+      "runtimeCommitMessage": "Fix Task<TResult> debug proxy Result behavior and rename from Future (#123752)",
+      "aspnetCoreCommitDateTime": "2026-02-13T00:45:50Z",
+      "aspnetCoreVersion": "11.0.0-preview.2.26116.101",
+      "runtimePackVersion": "11.0.0-preview.2.26116.101",
+      "workloadVersion": "11.0.100-preview.2.26159.112",
+      "bootstrapSdkVersion": "11.0.100-preview.1.26104.118",
+      "releaseDate": "2026-02-16",
+      "major": 11,
+      "minor": 0,
+      "patch": 100,
+      "channel": "11.0",
+      "isPrerelease": true,
+      "benchmarkDateTime": "2026-03-21T01:21:47.890Z",
+      "ciRunId": "23367873841",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23367873841"
+    },
+    {
       "sdkVersion": "11.0.100-preview.2.26116.109",
       "runtimeGitHash": "a27de4a8c3d2b6a6636e1a9d810ab39d260a5380",
       "aspnetCoreGitHash": "23e6a3a457e88f4463154c2b63b8787e9bf195fc",
