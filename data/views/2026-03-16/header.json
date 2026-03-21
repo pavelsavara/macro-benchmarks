@@ -44,9 +44,9 @@
       "patch": 100,
       "channel": "11.0",
       "isPrerelease": true,
-      "benchmarkDateTime": "2026-03-21T05:59:28.862Z",
-      "ciRunId": "23372541740",
-      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23372541740"
+      "benchmarkDateTime": "2026-03-21T06:13:14.654Z",
+      "ciRunId": "23372729556",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23372729556"
     }
   ],
   "apps": {
