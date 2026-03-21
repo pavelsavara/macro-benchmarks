@@ -1,6 +1,30 @@
 {
   "columns": [
     {
+      "sdkVersion": "11.0.100-preview.2.26079.117",
+      "runtimeGitHash": "5c2326596dc0b21583dbba5db9298c025eacbf64",
+      "aspnetCoreGitHash": "44c0e73ca9649d81ed2b9aee2af81663fffa11e2",
+      "sdkGitHash": "701f7951f86c4e4d79ee9be0c22fd929961f61ff",
+      "vmrGitHash": "ada556d9c348eb240b3e0f3447ecd6ec128ceddc",
+      "runtimeCommitDateTime": "2026-01-29T00:05:29Z",
+      "runtimeCommitAuthor": "Andy Ayers",
+      "runtimeCommitMessage": "[Wasm RyuJit] throw helper / null check preliminaries (#123053)",
+      "aspnetCoreCommitDateTime": "2026-01-28T19:58:10Z",
+      "aspnetCoreVersion": "11.0.0-preview.2.26079.117",
+      "runtimePackVersion": "11.0.0-preview.2.26079.117",
+      "workloadVersion": "11.0.100-preview.2.26159.112",
+      "bootstrapSdkVersion": "11.0.100-alpha.1.26064.118",
+      "releaseDate": "2026-01-29",
+      "major": 11,
+      "minor": 0,
+      "patch": 100,
+      "channel": "11.0",
+      "isPrerelease": true,
+      "benchmarkDateTime": "2026-03-21T17:34:34.941Z",
+      "ciRunId": "23383939971",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23383939971"
+    },
+    {
       "sdkVersion": "11.0.100-preview.2.26080.101",
       "runtimeGitHash": "5c2326596dc0b21583dbba5db9298c025eacbf64",
       "aspnetCoreGitHash": "44c0e73ca9649d81ed2b9aee2af81663fffa11e2",
