@@ -1,6 +1,30 @@
 {
   "columns": [
     {
+      "sdkVersion": "11.0.100-preview.2.26108.103",
+      "runtimeGitHash": "18a3069ebfd2f1c1c07c5cb567e4714999e81e61",
+      "aspnetCoreGitHash": "102119ab7ceb911130fad4a485ec0a4828aa9e53",
+      "sdkGitHash": "73cde0f160d210a574a61470a8432b60ba9a038e",
+      "vmrGitHash": "8c56ff58fc59fd33fc1dab5c6a7155ca16511bb2",
+      "runtimeCommitDateTime": "2026-02-07T20:07:59Z",
+      "runtimeCommitAuthor": "Andy Ayers",
+      "runtimeCommitMessage": "[Wasm Ryujit] Wasm SP is implicitly referenced (#124115)",
+      "aspnetCoreCommitDateTime": "2026-02-07T05:29:27Z",
+      "aspnetCoreVersion": "11.0.0-preview.2.26108.103",
+      "runtimePackVersion": "11.0.0-preview.2.26108.103",
+      "workloadVersion": "11.0.100-preview.2.26159.112",
+      "bootstrapSdkVersion": "11.0.100-preview.1.26078.121",
+      "releaseDate": "2026-02-08",
+      "major": 11,
+      "minor": 0,
+      "patch": 100,
+      "channel": "11.0",
+      "isPrerelease": true,
+      "benchmarkDateTime": "2026-03-21T12:05:57.065Z",
+      "ciRunId": "23378310410",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23378310410"
+    },
+    {
       "sdkVersion": "11.0.100-preview.2.26109.101",
       "runtimeGitHash": "18a3069ebfd2f1c1c07c5cb567e4714999e81e61",
       "aspnetCoreGitHash": "102119ab7ceb911130fad4a485ec0a4828aa9e53",
