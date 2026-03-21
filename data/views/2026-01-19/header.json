@@ -1,6 +1,30 @@
 {
   "columns": [
     {
+      "sdkVersion": "11.0.100-preview.1.26076.102",
+      "runtimeGitHash": "ef2aefa57fbcb682b256e5dea94453140f4aac69",
+      "aspnetCoreGitHash": "7328bdb6f0cf94168f5d4133122f3734a0bb1f24",
+      "sdkGitHash": "fbe064f58659bfd9a963bdf603b1c122228a760c",
+      "vmrGitHash": "93b03446d269bf71bb3ab1cce56e696913709c8a",
+      "runtimeCommitDateTime": "2026-01-24T01:14:39Z",
+      "runtimeCommitAuthor": "Adam Perlin",
+      "runtimeCommitMessage": "[RyuJIT Wasm] Cast Operations Follow Up (#122862)",
+      "aspnetCoreCommitDateTime": "2026-01-21T23:45:48Z",
+      "aspnetCoreVersion": "11.0.0-preview.1.26076.102",
+      "runtimePackVersion": "11.0.0-preview.1.26076.102",
+      "workloadVersion": "11.0.100-preview.1.26104.118",
+      "bootstrapSdkVersion": "11.0.100-alpha.1.26064.118",
+      "releaseDate": "2026-01-26",
+      "major": 11,
+      "minor": 0,
+      "patch": 100,
+      "channel": "11.0",
+      "isPrerelease": true,
+      "benchmarkDateTime": "2026-03-21T23:16:43.480Z",
+      "ciRunId": "23390021527",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23390021527"
+    },
+    {
       "sdkVersion": "11.0.100-preview.1.26078.107",
       "runtimeGitHash": "32cae3846c5e91040c870577ecdc0448a6fd7669",
       "aspnetCoreGitHash": "da09bb7150f44b89891f5edca5ce5628c1c582ed",
