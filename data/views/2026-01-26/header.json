@@ -1,32 +1,31 @@
 {
-  "lastUpdated": "2026-03-21T15:22:45.142Z",
-  "activeRelease": "net11",
-  "releases": [
-    "net8",
-    "net9",
-    "net10"
+  "columns": [
+    {
+      "sdkVersion": "11.0.100-preview.2.26102.101",
+      "runtimeGitHash": "062177e34e2b01a7bcdaf6351a3b6ceff5f73357",
+      "aspnetCoreGitHash": "5dc1b4bc77ce3b3b957ca5bc896fa3def9da4d9f",
+      "sdkGitHash": "701f7951f86c4e4d79ee9be0c22fd929961f61ff",
+      "vmrGitHash": "e4623875ecf0ada4bad52553d66e9c5047788274",
+      "runtimeCommitDateTime": "2026-01-29T23:07:55Z",
+      "runtimeCommitAuthor": "Egor Bogatov",
+      "runtimeCommitMessage": "Use CORJIT_PREJIT_UNSUPPORTED instead of CORJIT_LIMITATION for BlockNonDeterministicIntrinsics (#123716)",
+      "aspnetCoreCommitDateTime": "2026-01-30T00:51:55Z",
+      "aspnetCoreVersion": "11.0.0-preview.2.26102.101",
+      "runtimePackVersion": "11.0.0-preview.2.26102.101",
+      "workloadVersion": "11.0.100-preview.2.26159.112",
+      "bootstrapSdkVersion": "11.0.100-preview.1.26078.121",
+      "releaseDate": "2026-02-02",
+      "major": 11,
+      "minor": 0,
+      "patch": 100,
+      "channel": "11.0",
+      "isPrerelease": true,
+      "benchmarkDateTime": "2026-03-21T15:11:48.658Z",
+      "ciRunId": "23381427502",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23381427502"
+    }
   ],
-  "weeks": [
-    "2026-03-16",
-    "2026-03-09",
-    "2026-03-02",
-    "2026-02-23",
-    "2026-02-16",
-    "2026-02-09",
-    "2026-02-02",
-    "2026-01-26"
-  ],
-  "apps": [
-    "blazing-pizza",
-    "empty-blazor",
-    "empty-browser",
-    "havit-bootstrap",
-    "micro-benchmarks",
-    "mud-blazor",
-    "semi-avalonia",
-    "uno-gallery"
-  ],
-  "metrics": {
+  "apps": {
     "blazing-pizza": [
       "compile-time",
       "disk-size-assemblies",
@@ -54,6 +53,23 @@
       "server-requests-warm",
       "time-to-create-dotnet-cold",
       "time-to-create-dotnet-warm",
+      "time-to-reach-managed-cold",
+      "time-to-reach-managed-warm",
+      "wasm-memory-size"
+    ],
+    "empty-browser": [
+      "compile-time",
+      "disk-size-assemblies",
+      "disk-size-native",
+      "download-size-cold",
+      "download-size-warm",
+      "memory-peak",
+      "server-requests-cold",
+      "server-requests-warm",
+      "time-to-create-dotnet-cold",
+      "time-to-create-dotnet-warm",
+      "time-to-exit-cold",
+      "time-to-exit-warm",
       "time-to-reach-managed-cold",
       "time-to-reach-managed-warm",
       "wasm-memory-size"
@@ -100,22 +116,6 @@
       "time-to-reach-managed-warm",
       "wasm-memory-size"
     ],
-    "uno-gallery": [
-      "compile-time",
-      "disk-size-assemblies",
-      "disk-size-native",
-      "download-size-cold",
-      "download-size-warm",
-      "memory-peak",
-      "server-requests-cold",
-      "server-requests-warm",
-      "time-to-create-dotnet-cold",
-      "time-to-create-dotnet-warm",
-      "time-to-reach-managed-cold",
-      "time-to-reach-managed-warm",
-      "uno-walkthrough",
-      "wasm-memory-size"
-    ],
     "semi-avalonia": [
       "compile-time",
       "disk-size-assemblies",
@@ -132,7 +132,7 @@
       "time-to-reach-managed-warm",
       "wasm-memory-size"
     ],
-    "empty-browser": [
+    "uno-gallery": [
       "compile-time",
       "disk-size-assemblies",
       "disk-size-native",
@@ -143,35 +143,11 @@
       "server-requests-warm",
       "time-to-create-dotnet-cold",
       "time-to-create-dotnet-warm",
-      "time-to-exit-cold",
-      "time-to-exit-warm",
       "time-to-reach-managed-cold",
       "time-to-reach-managed-warm",
+      "uno-walkthrough",
       "wasm-memory-size"
     ]
   },
-  "dimensions": {
-    "runtimes": [
-      "mono"
-    ],
-    "presets": [
-      "aot",
-      "dev-loop",
-      "invariant",
-      "native-relink",
-      "no-jiterp",
-      "no-reflection-emit",
-      "no-workload"
-    ],
-    "profiles": [
-      "desktop",
-      "mobile"
-    ],
-    "engines": [
-      "chrome",
-      "firefox",
-      "node",
-      "v8"
-    ]
-  }
+  "week": "2026-01-26"
 }
