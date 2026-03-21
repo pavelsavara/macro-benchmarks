@@ -1,6 +1,30 @@
 {
   "columns": [
     {
+      "sdkVersion": "11.0.100-preview.2.26102.106",
+      "runtimeGitHash": "c55578ba89a7bd7ef4ad658a364ae207b1db0df1",
+      "aspnetCoreGitHash": "5dc1b4bc77ce3b3b957ca5bc896fa3def9da4d9f",
+      "sdkGitHash": "701f7951f86c4e4d79ee9be0c22fd929961f61ff",
+      "vmrGitHash": "1c259bfb9192b025322c2b32adbb0c77143e1e37",
+      "runtimeCommitDateTime": "2026-02-02T00:59:12Z",
+      "runtimeCommitAuthor": "Copilot",
+      "runtimeCommitMessage": "Replace outdated Array.Empty comments with correct reason (#123862)",
+      "aspnetCoreCommitDateTime": "2026-01-30T00:51:55Z",
+      "aspnetCoreVersion": "11.0.0-preview.2.26102.106",
+      "runtimePackVersion": "11.0.0-preview.2.26102.106",
+      "workloadVersion": "11.0.100-preview.2.26159.112",
+      "bootstrapSdkVersion": "11.0.100-preview.1.26078.121",
+      "releaseDate": "2026-02-02",
+      "major": 11,
+      "minor": 0,
+      "patch": 100,
+      "channel": "11.0",
+      "isPrerelease": true,
+      "benchmarkDateTime": "2026-03-21T14:43:47.177Z",
+      "ciRunId": "23380951858",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23380951858"
+    },
+    {
       "sdkVersion": "11.0.100-preview.2.26102.114",
       "runtimeGitHash": "c55578ba89a7bd7ef4ad658a364ae207b1db0df1",
       "aspnetCoreGitHash": "08a9fc2c3864d99759ab3d71cfda868d852bfc4b",
