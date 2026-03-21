@@ -1,6 +1,30 @@
 {
   "columns": [
     {
+      "sdkVersion": "11.0.100-preview.2.26081.104",
+      "runtimeGitHash": "062177e34e2b01a7bcdaf6351a3b6ceff5f73357",
+      "aspnetCoreGitHash": "5dc1b4bc77ce3b3b957ca5bc896fa3def9da4d9f",
+      "sdkGitHash": "701f7951f86c4e4d79ee9be0c22fd929961f61ff",
+      "vmrGitHash": "d47374e85ce3265be96401a67d9f55f43881407a",
+      "runtimeCommitDateTime": "2026-01-29T23:07:55Z",
+      "runtimeCommitAuthor": "Egor Bogatov",
+      "runtimeCommitMessage": "Use CORJIT_PREJIT_UNSUPPORTED instead of CORJIT_LIMITATION for BlockNonDeterministicIntrinsics (#123716)",
+      "aspnetCoreCommitDateTime": "2026-01-30T00:51:55Z",
+      "aspnetCoreVersion": "11.0.0-preview.2.26081.104",
+      "runtimePackVersion": "11.0.0-preview.2.26081.104",
+      "workloadVersion": "11.0.100-preview.2.26159.112",
+      "bootstrapSdkVersion": "11.0.100-preview.1.26078.121",
+      "releaseDate": "2026-01-31",
+      "major": 11,
+      "minor": 0,
+      "patch": 100,
+      "channel": "11.0",
+      "isPrerelease": true,
+      "benchmarkDateTime": "2026-03-21T15:41:45.806Z",
+      "ciRunId": "23382004144",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23382004144"
+    },
+    {
       "sdkVersion": "11.0.100-preview.2.26102.101",
       "runtimeGitHash": "062177e34e2b01a7bcdaf6351a3b6ceff5f73357",
       "aspnetCoreGitHash": "5dc1b4bc77ce3b3b957ca5bc896fa3def9da4d9f",
