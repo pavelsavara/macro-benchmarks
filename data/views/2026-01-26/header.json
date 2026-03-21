@@ -1,6 +1,30 @@
 {
   "columns": [
     {
+      "sdkVersion": "11.0.100-preview.2.26078.120",
+      "runtimeGitHash": "5097397670bb0d461d939644f66256258c0f1186",
+      "aspnetCoreGitHash": "59d9051d2d057b055718968a77388e9b71f5aa5f",
+      "sdkGitHash": "701f7951f86c4e4d79ee9be0c22fd929961f61ff",
+      "vmrGitHash": "be14de3485a4e2a92c196c839c692999143100d1",
+      "runtimeCommitDateTime": "2026-01-27T23:05:56Z",
+      "runtimeCommitAuthor": "Jeremy Koritzinsky",
+      "runtimeCommitMessage": "Fix failures in internal validation pipeline (#123452)",
+      "aspnetCoreCommitDateTime": "2026-01-27T00:23:08Z",
+      "aspnetCoreVersion": "11.0.0-preview.2.26078.120",
+      "runtimePackVersion": "11.0.0-preview.2.26078.120",
+      "workloadVersion": "11.0.100-preview.2.26159.112",
+      "bootstrapSdkVersion": "11.0.100-alpha.1.26064.118",
+      "releaseDate": "2026-01-28",
+      "major": 11,
+      "minor": 0,
+      "patch": 100,
+      "channel": "11.0",
+      "isPrerelease": true,
+      "benchmarkDateTime": "2026-03-21T18:45:31.780Z",
+      "ciRunId": "23385194214",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23385194214"
+    },
+    {
       "sdkVersion": "11.0.100-preview.2.26079.101",
       "runtimeGitHash": "5c2326596dc0b21583dbba5db9298c025eacbf64",
       "aspnetCoreGitHash": "59d9051d2d057b055718968a77388e9b71f5aa5f",
