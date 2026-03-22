@@ -1,6 +1,30 @@
 {
   "columns": [
     {
+      "sdkVersion": "11.0.100-alpha.1.26060.102",
+      "runtimeGitHash": "891c183b22d023eea7bc4aa57dbc219d54852036",
+      "aspnetCoreGitHash": "30d4d50bbf806a8c45de78ac0fcff1b4c3f78842",
+      "sdkGitHash": "ec5f7d915a8597baba3dbf1ef3ece19accb4541b",
+      "vmrGitHash": "db3b7424251b47d9474dbbe3b4fa7a81fe2915b7",
+      "runtimeCommitDateTime": "2025-12-14T18:54:26Z",
+      "runtimeCommitAuthor": "Viktor Hofer",
+      "runtimeCommitMessage": "Use TaskHostFactory to resolve file lock issues and simplify tasks build (#122525)",
+      "aspnetCoreCommitDateTime": "2026-01-09T00:09:58Z",
+      "aspnetCoreVersion": "11.0.0-alpha.1.26060.102",
+      "runtimePackVersion": "11.0.0-alpha.1.26060.102",
+      "workloadVersion": "11.0.100-alpha.1.26060.102",
+      "bootstrapSdkVersion": "11.0.100-alpha.1.25618.104",
+      "releaseDate": "2026-01-10",
+      "major": 11,
+      "minor": 0,
+      "patch": 100,
+      "channel": "11.0",
+      "isPrerelease": true,
+      "benchmarkDateTime": "2026-03-22T17:15:31.946Z",
+      "ciRunId": "23407187535",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23407187535"
+    },
+    {
       "sdkVersion": "11.0.100-alpha.1.26062.101",
       "runtimeGitHash": "891c183b22d023eea7bc4aa57dbc219d54852036",
       "aspnetCoreGitHash": "30d4d50bbf806a8c45de78ac0fcff1b4c3f78842",
