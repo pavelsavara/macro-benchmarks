@@ -1,35 +1,31 @@
 {
-  "lastUpdated": "2026-03-22T16:17:26.948Z",
-  "activeRelease": "net11",
-  "releases": [
-    "net8",
-    "net9",
-    "net10"
+  "columns": [
+    {
+      "sdkVersion": "11.0.100-alpha.1.26062.101",
+      "runtimeGitHash": "891c183b22d023eea7bc4aa57dbc219d54852036",
+      "aspnetCoreGitHash": "30d4d50bbf806a8c45de78ac0fcff1b4c3f78842",
+      "sdkGitHash": "ec5f7d915a8597baba3dbf1ef3ece19accb4541b",
+      "vmrGitHash": "7b9ad20ba1d45df5a99fdd9dedbf3bfe6a6fc24f",
+      "runtimeCommitDateTime": "2025-12-14T18:54:26Z",
+      "runtimeCommitAuthor": "Viktor Hofer",
+      "runtimeCommitMessage": "Use TaskHostFactory to resolve file lock issues and simplify tasks build (#122525)",
+      "aspnetCoreCommitDateTime": "2026-01-09T00:09:58Z",
+      "aspnetCoreVersion": "11.0.0-alpha.1.26062.101",
+      "runtimePackVersion": "11.0.0-alpha.1.26062.101",
+      "workloadVersion": "11.0.100-alpha.1.26062.101",
+      "bootstrapSdkVersion": "11.0.100-alpha.1.25618.104",
+      "releaseDate": "2026-01-12",
+      "major": 11,
+      "minor": 0,
+      "patch": 100,
+      "channel": "11.0",
+      "isPrerelease": true,
+      "benchmarkDateTime": "2026-03-22T16:01:04.967Z",
+      "ciRunId": "23405770842",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23405770842"
+    }
   ],
-  "weeks": [
-    "2026-03-16",
-    "2026-03-09",
-    "2026-03-02",
-    "2026-02-23",
-    "2026-02-16",
-    "2026-02-09",
-    "2026-02-02",
-    "2026-01-26",
-    "2026-01-19",
-    "2026-01-12",
-    "2025-12-08"
-  ],
-  "apps": [
-    "blazing-pizza",
-    "empty-blazor",
-    "empty-browser",
-    "havit-bootstrap",
-    "micro-benchmarks",
-    "mud-blazor",
-    "semi-avalonia",
-    "uno-gallery"
-  ],
-  "metrics": {
+  "apps": {
     "blazing-pizza": [
       "compile-time",
       "disk-size-assemblies",
@@ -57,6 +53,23 @@
       "server-requests-warm",
       "time-to-create-dotnet-cold",
       "time-to-create-dotnet-warm",
+      "time-to-reach-managed-cold",
+      "time-to-reach-managed-warm",
+      "wasm-memory-size"
+    ],
+    "empty-browser": [
+      "compile-time",
+      "disk-size-assemblies",
+      "disk-size-native",
+      "download-size-cold",
+      "download-size-warm",
+      "memory-peak",
+      "server-requests-cold",
+      "server-requests-warm",
+      "time-to-create-dotnet-cold",
+      "time-to-create-dotnet-warm",
+      "time-to-exit-cold",
+      "time-to-exit-warm",
       "time-to-reach-managed-cold",
       "time-to-reach-managed-warm",
       "wasm-memory-size"
@@ -103,22 +116,6 @@
       "time-to-reach-managed-warm",
       "wasm-memory-size"
     ],
-    "uno-gallery": [
-      "compile-time",
-      "disk-size-assemblies",
-      "disk-size-native",
-      "download-size-cold",
-      "download-size-warm",
-      "memory-peak",
-      "server-requests-cold",
-      "server-requests-warm",
-      "time-to-create-dotnet-cold",
-      "time-to-create-dotnet-warm",
-      "time-to-reach-managed-cold",
-      "time-to-reach-managed-warm",
-      "uno-walkthrough",
-      "wasm-memory-size"
-    ],
     "semi-avalonia": [
       "compile-time",
       "disk-size-assemblies",
@@ -135,7 +132,7 @@
       "time-to-reach-managed-warm",
       "wasm-memory-size"
     ],
-    "empty-browser": [
+    "uno-gallery": [
       "compile-time",
       "disk-size-assemblies",
       "disk-size-native",
@@ -146,35 +143,11 @@
       "server-requests-warm",
       "time-to-create-dotnet-cold",
       "time-to-create-dotnet-warm",
-      "time-to-exit-cold",
-      "time-to-exit-warm",
       "time-to-reach-managed-cold",
       "time-to-reach-managed-warm",
+      "uno-walkthrough",
       "wasm-memory-size"
     ]
   },
-  "dimensions": {
-    "runtimes": [
-      "mono"
-    ],
-    "presets": [
-      "aot",
-      "dev-loop",
-      "invariant",
-      "native-relink",
-      "no-jiterp",
-      "no-reflection-emit",
-      "no-workload"
-    ],
-    "profiles": [
-      "desktop",
-      "mobile"
-    ],
-    "engines": [
-      "chrome",
-      "firefox",
-      "node",
-      "v8"
-    ]
-  }
+  "week": "2025-12-08"
 }
