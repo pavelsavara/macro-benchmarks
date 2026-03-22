@@ -1,7 +1,7 @@
 {
   "columns": [
     {
-      "sdkVersion": "11.0.100-preview.1.26071.105",
+      "sdkVersion": "11.0.100-preview.1.26071.101",
       "runtimeGitHash": "0b3ba66a27a82e8a039d32a8d9aa3bd94a4f3e4c",
       "aspnetCoreGitHash": "495aa864aefc6ac447b58524fe8fb638828340fc",
       "sdkGitHash": "7b832810b773255dc516c33e66ad0cda40e067b0",
@@ -10,8 +10,8 @@
       "runtimeCommitAuthor": "Valentin Grigorev",
       "runtimeCommitMessage": " Make ObjectsAllocatedByClass callback skippable with enabled COR_PRF_MONITOR_GC (#123177)",
       "aspnetCoreCommitDateTime": "2026-01-19T19:54:30Z",
-      "aspnetCoreVersion": "11.0.0-preview.1.26071.105",
-      "runtimePackVersion": "11.0.0-preview.1.26071.105",
+      "aspnetCoreVersion": "11.0.0-preview.1.26071.101",
+      "runtimePackVersion": "11.0.0-preview.1.26071.101",
       "workloadVersion": "11.0.100-preview.1.26104.118",
       "bootstrapSdkVersion": "11.0.100-alpha.1.26064.118",
       "releaseDate": "2026-01-21",
@@ -20,9 +20,9 @@
       "patch": 100,
       "channel": "11.0",
       "isPrerelease": true,
-      "benchmarkDateTime": "2026-03-22T10:31:30.387Z",
-      "ciRunId": "23399881344",
-      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23399881344"
+      "benchmarkDateTime": "2026-03-22T10:59:42.239Z",
+      "ciRunId": "23400550713",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23400550713"
     },
     {
       "sdkVersion": "11.0.100-preview.1.26073.106",
