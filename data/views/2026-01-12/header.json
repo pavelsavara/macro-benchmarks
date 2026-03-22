@@ -1,6 +1,30 @@
 {
   "columns": [
     {
+      "sdkVersion": "11.0.100-alpha.1.26065.110",
+      "runtimeGitHash": "d120108fc5d4fce1e0fcf2897e39e9ad18c466bb",
+      "aspnetCoreGitHash": "26ec5310d140a3785b351e7a3a7284ccaf4341af",
+      "sdkGitHash": "ec5f7d915a8597baba3dbf1ef3ece19accb4541b",
+      "vmrGitHash": "d553016d4fd2c8f36671f0472dc2ef359fd28f84",
+      "runtimeCommitDateTime": "2026-01-14T23:55:30Z",
+      "runtimeCommitAuthor": "Jeremy Koritzinsky",
+      "runtimeCommitMessage": "Restore correct outerloop priority tracking and test execution (#123112)",
+      "aspnetCoreCommitDateTime": "2026-01-15T00:07:27Z",
+      "aspnetCoreVersion": "11.0.0-alpha.1.26065.110",
+      "runtimePackVersion": "11.0.0-alpha.1.26065.110",
+      "workloadVersion": "11.0.100-alpha.1.26065.110",
+      "bootstrapSdkVersion": "11.0.100-alpha.1.26064.118",
+      "releaseDate": "2026-01-15",
+      "major": 11,
+      "minor": 0,
+      "patch": 100,
+      "channel": "11.0",
+      "isPrerelease": true,
+      "benchmarkDateTime": "2026-03-22T13:42:34.643Z",
+      "ciRunId": "23403183853",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23403183853"
+    },
+    {
       "sdkVersion": "11.0.100-preview.1.26065.113",
       "runtimeGitHash": "d120108fc5d4fce1e0fcf2897e39e9ad18c466bb",
       "aspnetCoreGitHash": "26ec5310d140a3785b351e7a3a7284ccaf4341af",
