@@ -1,6 +1,30 @@
 {
   "columns": [
     {
+      "sdkVersion": "11.0.100-preview.1.26071.105",
+      "runtimeGitHash": "0b3ba66a27a82e8a039d32a8d9aa3bd94a4f3e4c",
+      "aspnetCoreGitHash": "495aa864aefc6ac447b58524fe8fb638828340fc",
+      "sdkGitHash": "7b832810b773255dc516c33e66ad0cda40e067b0",
+      "vmrGitHash": "4707d71d0936130c7ef3fe7c9e5f5f755561c8a8",
+      "runtimeCommitDateTime": "2026-01-20T23:28:42Z",
+      "runtimeCommitAuthor": "Valentin Grigorev",
+      "runtimeCommitMessage": " Make ObjectsAllocatedByClass callback skippable with enabled COR_PRF_MONITOR_GC (#123177)",
+      "aspnetCoreCommitDateTime": "2026-01-19T19:54:30Z",
+      "aspnetCoreVersion": "11.0.0-preview.1.26071.105",
+      "runtimePackVersion": "11.0.0-preview.1.26071.105",
+      "workloadVersion": "11.0.100-preview.1.26104.118",
+      "bootstrapSdkVersion": "11.0.100-alpha.1.26064.118",
+      "releaseDate": "2026-01-21",
+      "major": 11,
+      "minor": 0,
+      "patch": 100,
+      "channel": "11.0",
+      "isPrerelease": true,
+      "benchmarkDateTime": "2026-03-22T10:31:30.387Z",
+      "ciRunId": "23399881344",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23399881344"
+    },
+    {
       "sdkVersion": "11.0.100-preview.1.26073.106",
       "runtimeGitHash": "0c78a5d8bee3101e76e1a0c7a931b1ac6078c5ea",
       "aspnetCoreGitHash": "7328bdb6f0cf94168f5d4133122f3734a0bb1f24",
