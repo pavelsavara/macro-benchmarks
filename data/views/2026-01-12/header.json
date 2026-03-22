@@ -1,6 +1,30 @@
 {
   "columns": [
     {
+      "sdkVersion": "11.0.100-preview.1.26069.103",
+      "runtimeGitHash": "6afecd4adc64210e5b46767d02a6495af1a08c46",
+      "aspnetCoreGitHash": "03d43ac61779148acb14ff0abd32a079a28ba42d",
+      "sdkGitHash": "73e74e8ae5b52b2312cf90778d210274a3f460c4",
+      "vmrGitHash": "adf42f5dcec99a409a6f63355f5b52147bfaf043",
+      "runtimeCommitDateTime": "2026-01-18T16:08:54Z",
+      "runtimeCommitAuthor": "prozolic",
+      "runtimeCommitMessage": "Add early return in TryGetLast for empty results. (#123306)",
+      "aspnetCoreCommitDateTime": "2026-01-17T01:53:58Z",
+      "aspnetCoreVersion": "11.0.0-preview.1.26069.103",
+      "runtimePackVersion": "11.0.0-preview.1.26069.103",
+      "workloadVersion": "11.0.100-preview.1.26104.118",
+      "bootstrapSdkVersion": "11.0.100-alpha.1.26064.118",
+      "releaseDate": "2026-01-19",
+      "major": 11,
+      "minor": 0,
+      "patch": 100,
+      "channel": "11.0",
+      "isPrerelease": true,
+      "benchmarkDateTime": "2026-03-22T11:41:58.267Z",
+      "ciRunId": "23401347378",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23401347378"
+    },
+    {
       "sdkVersion": "11.0.100-preview.1.26069.105",
       "runtimeGitHash": "6afecd4adc64210e5b46767d02a6495af1a08c46",
       "aspnetCoreGitHash": "03d43ac61779148acb14ff0abd32a079a28ba42d",
