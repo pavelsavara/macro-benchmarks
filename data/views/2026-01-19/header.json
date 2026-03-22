@@ -1,6 +1,30 @@
 {
   "columns": [
     {
+      "sdkVersion": "11.0.100-preview.1.26070.110",
+      "runtimeGitHash": "5952bf28fa850316f401b4c329a90d8dfb343a90",
+      "aspnetCoreGitHash": "495aa864aefc6ac447b58524fe8fb638828340fc",
+      "sdkGitHash": "7b832810b773255dc516c33e66ad0cda40e067b0",
+      "vmrGitHash": "a8b46ab052618a946f8b728e7ffa6566ef7c094b",
+      "runtimeCommitDateTime": "2026-01-19T20:40:13Z",
+      "runtimeCommitAuthor": "Ilona Tomkowicz",
+      "runtimeCommitMessage": "Fix WASM debugger breakpoints not hitting after Terser 5.39+. (#123353)",
+      "aspnetCoreCommitDateTime": "2026-01-19T19:54:30Z",
+      "aspnetCoreVersion": "11.0.0-preview.1.26070.110",
+      "runtimePackVersion": "11.0.0-preview.1.26070.110",
+      "workloadVersion": "11.0.100-preview.1.26104.118",
+      "bootstrapSdkVersion": "11.0.100-alpha.1.26064.118",
+      "releaseDate": "2026-01-20",
+      "major": 11,
+      "minor": 0,
+      "patch": 100,
+      "channel": "11.0",
+      "isPrerelease": true,
+      "benchmarkDateTime": "2026-03-22T11:17:02.071Z",
+      "ciRunId": "23400697917",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23400697917"
+    },
+    {
       "sdkVersion": "11.0.100-preview.1.26071.101",
       "runtimeGitHash": "0b3ba66a27a82e8a039d32a8d9aa3bd94a4f3e4c",
       "aspnetCoreGitHash": "495aa864aefc6ac447b58524fe8fb638828340fc",
