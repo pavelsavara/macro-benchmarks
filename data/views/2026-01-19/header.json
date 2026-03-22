@@ -1,7 +1,7 @@
 {
   "columns": [
     {
-      "sdkVersion": "11.0.100-preview.1.26074.103",
+      "sdkVersion": "11.0.100-preview.1.26073.123",
       "runtimeGitHash": "0c78a5d8bee3101e76e1a0c7a931b1ac6078c5ea",
       "aspnetCoreGitHash": "7328bdb6f0cf94168f5d4133122f3734a0bb1f24",
       "sdkGitHash": "fbe064f58659bfd9a963bdf603b1c122228a760c",
@@ -10,19 +10,19 @@
       "runtimeCommitAuthor": "Pavel Savara",
       "runtimeCommitMessage": "[browser][coreCLR] HTTP and WS client implementation in JS (#123400)",
       "aspnetCoreCommitDateTime": "2026-01-21T23:45:48Z",
-      "aspnetCoreVersion": "11.0.0-preview.1.26074.103",
-      "runtimePackVersion": "11.0.0-preview.1.26074.103",
+      "aspnetCoreVersion": "11.0.0-preview.1.26073.123",
+      "runtimePackVersion": "11.0.0-preview.1.26073.123",
       "workloadVersion": "11.0.100-preview.1.26104.118",
       "bootstrapSdkVersion": "11.0.100-alpha.1.26064.118",
-      "releaseDate": "2026-01-24",
+      "releaseDate": "2026-01-23",
       "major": 11,
       "minor": 0,
       "patch": 100,
       "channel": "11.0",
       "isPrerelease": true,
-      "benchmarkDateTime": "2026-03-22T08:24:00.123Z",
-      "ciRunId": "23398022657",
-      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23398022657"
+      "benchmarkDateTime": "2026-03-22T08:56:11.052Z",
+      "ciRunId": "23398468397",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23398468397"
     },
     {
       "sdkVersion": "11.0.100-preview.1.26074.105",
