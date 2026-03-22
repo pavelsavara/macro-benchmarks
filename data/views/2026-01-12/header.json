@@ -1,6 +1,30 @@
 {
   "columns": [
     {
+      "sdkVersion": "11.0.100-alpha.1.26064.118",
+      "runtimeGitHash": "73294ebb8c1bf4724e8c785e599e5ac71e06bec3",
+      "aspnetCoreGitHash": "30d4d50bbf806a8c45de78ac0fcff1b4c3f78842",
+      "sdkGitHash": "ec5f7d915a8597baba3dbf1ef3ece19accb4541b",
+      "vmrGitHash": "1b8d7cea3bf7bf086a768a95354814c2a5ce0290",
+      "runtimeCommitDateTime": "2026-01-14T08:33:08Z",
+      "runtimeCommitAuthor": "Miha Zupan",
+      "runtimeCommitMessage": "Add a script to generate code coverage reports after fuzzing (#123079)",
+      "aspnetCoreCommitDateTime": "2026-01-09T00:09:58Z",
+      "aspnetCoreVersion": "11.0.0-alpha.1.26064.118",
+      "runtimePackVersion": "11.0.0-alpha.1.26064.118",
+      "workloadVersion": "11.0.100-alpha.1.26064.118",
+      "bootstrapSdkVersion": "11.0.100-alpha.1.26060.102",
+      "releaseDate": "2026-01-14",
+      "major": 11,
+      "minor": 0,
+      "patch": 100,
+      "channel": "11.0",
+      "isPrerelease": true,
+      "benchmarkDateTime": "2026-03-22T14:45:21.185Z",
+      "ciRunId": "23404436200",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23404436200"
+    },
+    {
       "sdkVersion": "11.0.100-alpha.1.26064.120",
       "runtimeGitHash": "73294ebb8c1bf4724e8c785e599e5ac71e06bec3",
       "aspnetCoreGitHash": "30d4d50bbf806a8c45de78ac0fcff1b4c3f78842",
