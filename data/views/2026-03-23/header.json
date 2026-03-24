@@ -1,36 +1,31 @@
 {
-  "lastUpdated": "2026-03-24T06:32:35.874Z",
-  "activeRelease": "net11",
-  "releases": [
-    "net8",
-    "net9",
-    "net10"
+  "columns": [
+    {
+      "sdkVersion": "11.0.100-preview.3.26172.108",
+      "runtimeGitHash": "443d53e25d035157b0640ddccf9a940265bfbccd",
+      "aspnetCoreGitHash": "3dafd5c3322983c6240ef6c53c58d75bcb31db95",
+      "sdkGitHash": "2122e7d265fdb191f9f770aa2cfa6e8a1c7bd136",
+      "vmrGitHash": "491bbab262d2f8179cf5f5651bc0689d9c12739a",
+      "runtimeCommitDateTime": "2026-03-23T00:45:55Z",
+      "runtimeCommitAuthor": "Copilot",
+      "runtimeCommitMessage": "Fix flaky NonPowerOfTwoKeySizeOaepRoundtrip test with retry on transient CryptographicException (#125911)",
+      "aspnetCoreCommitDateTime": "2026-03-22T06:28:01Z",
+      "aspnetCoreVersion": "11.0.0-preview.3.26172.108",
+      "runtimePackVersion": "11.0.0-preview.3.26172.108",
+      "workloadVersion": "11.0.100-preview.3.26172.108",
+      "bootstrapSdkVersion": "11.0.100-preview.3.26170.106",
+      "releaseDate": "2026-03-22",
+      "major": 11,
+      "minor": 0,
+      "patch": 100,
+      "channel": "11.0",
+      "isPrerelease": true,
+      "benchmarkDateTime": "2026-03-24T06:19:21.322Z",
+      "ciRunId": "23474446361",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23474446361"
+    }
   ],
-  "weeks": [
-    "2026-03-23",
-    "2026-03-16",
-    "2026-03-09",
-    "2026-03-02",
-    "2026-02-23",
-    "2026-02-16",
-    "2026-02-09",
-    "2026-02-02",
-    "2026-01-26",
-    "2026-01-19",
-    "2026-01-12",
-    "2025-12-08"
-  ],
-  "apps": [
-    "blazing-pizza",
-    "empty-blazor",
-    "empty-browser",
-    "havit-bootstrap",
-    "micro-benchmarks",
-    "mud-blazor",
-    "semi-avalonia",
-    "uno-gallery"
-  ],
-  "metrics": {
+  "apps": {
     "blazing-pizza": [
       "compile-time",
       "disk-size-assemblies",
@@ -58,6 +53,23 @@
       "server-requests-warm",
       "time-to-create-dotnet-cold",
       "time-to-create-dotnet-warm",
+      "time-to-reach-managed-cold",
+      "time-to-reach-managed-warm",
+      "wasm-memory-size"
+    ],
+    "empty-browser": [
+      "compile-time",
+      "disk-size-assemblies",
+      "disk-size-native",
+      "download-size-cold",
+      "download-size-warm",
+      "memory-peak",
+      "server-requests-cold",
+      "server-requests-warm",
+      "time-to-create-dotnet-cold",
+      "time-to-create-dotnet-warm",
+      "time-to-exit-cold",
+      "time-to-exit-warm",
       "time-to-reach-managed-cold",
       "time-to-reach-managed-warm",
       "wasm-memory-size"
@@ -104,22 +116,6 @@
       "time-to-reach-managed-warm",
       "wasm-memory-size"
     ],
-    "uno-gallery": [
-      "compile-time",
-      "disk-size-assemblies",
-      "disk-size-native",
-      "download-size-cold",
-      "download-size-warm",
-      "memory-peak",
-      "server-requests-cold",
-      "server-requests-warm",
-      "time-to-create-dotnet-cold",
-      "time-to-create-dotnet-warm",
-      "time-to-reach-managed-cold",
-      "time-to-reach-managed-warm",
-      "uno-walkthrough",
-      "wasm-memory-size"
-    ],
     "semi-avalonia": [
       "compile-time",
       "disk-size-assemblies",
@@ -136,7 +132,7 @@
       "time-to-reach-managed-warm",
       "wasm-memory-size"
     ],
-    "empty-browser": [
+    "uno-gallery": [
       "compile-time",
       "disk-size-assemblies",
       "disk-size-native",
@@ -147,35 +143,11 @@
       "server-requests-warm",
       "time-to-create-dotnet-cold",
       "time-to-create-dotnet-warm",
-      "time-to-exit-cold",
-      "time-to-exit-warm",
       "time-to-reach-managed-cold",
       "time-to-reach-managed-warm",
+      "uno-walkthrough",
       "wasm-memory-size"
     ]
   },
-  "dimensions": {
-    "runtimes": [
-      "mono"
-    ],
-    "presets": [
-      "aot",
-      "dev-loop",
-      "invariant",
-      "native-relink",
-      "no-jiterp",
-      "no-reflection-emit",
-      "no-workload"
-    ],
-    "profiles": [
-      "desktop",
-      "mobile"
-    ],
-    "engines": [
-      "chrome",
-      "firefox",
-      "node",
-      "v8"
-    ]
-  }
+  "week": "2026-03-23"
 }
