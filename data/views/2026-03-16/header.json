@@ -119,6 +119,30 @@
       "benchmarkDateTime": "2026-03-25T09:54:41.894Z",
       "ciRunId": "23532876133",
       "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23532876133"
+    },
+    {
+      "sdkVersion": "11.0.100-preview.3.26172.107",
+      "runtimeGitHash": "be2631fa380635f4e357ccdd0d140e2a8069800b",
+      "aspnetCoreGitHash": "faf0ea036dac4c02bbc0fd46e6e3a5039d08e1a5",
+      "sdkGitHash": "31f158e4da31a48ca3f9a3db7c01dc975064d560",
+      "vmrGitHash": "fcc3bc58bb50b33ef55ee38c6c7c4fc355c5e9b0",
+      "runtimeCommitDateTime": "2026-03-22T21:43:53Z",
+      "runtimeCommitAuthor": "dotnet-maestro[bot]",
+      "runtimeCommitMessage": "[main] Source code updates from dotnet/dotnet (#125762)",
+      "aspnetCoreCommitDateTime": "2026-03-20T20:23:09Z",
+      "aspnetCoreVersion": "11.0.0-preview.3.26172.107",
+      "runtimePackVersion": "11.0.0-preview.3.26172.107",
+      "workloadVersion": "11.0.100-preview.3.26172.107",
+      "bootstrapSdkVersion": "11.0.100-preview.3.26170.106",
+      "releaseDate": "2026-03-22",
+      "major": 11,
+      "minor": 0,
+      "patch": 100,
+      "channel": "11.0",
+      "isPrerelease": true,
+      "benchmarkDateTime": "2026-03-25T13:18:10.729Z",
+      "ciRunId": "23540585444",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23540585444"
     }
   ],
   "apps": {
