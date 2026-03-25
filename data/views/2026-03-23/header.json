@@ -44,9 +44,9 @@
       "patch": 100,
       "channel": "11.0",
       "isPrerelease": true,
-      "benchmarkDateTime": "2026-03-25T08:45:33.595Z",
-      "ciRunId": "23530420668",
-      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23530420668"
+      "benchmarkDateTime": "2026-03-25T11:53:08.482Z",
+      "ciRunId": "23537518933",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23537518933"
     },
     {
       "sdkVersion": "11.0.100-preview.3.26174.105",
