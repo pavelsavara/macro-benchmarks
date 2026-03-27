@@ -1,6 +1,30 @@
 {
   "columns": [
     {
+      "sdkVersion": "11.0.100-preview.3.26175.122",
+      "runtimeGitHash": "210efc05611723fe2883a0a6411b6357dcd52327",
+      "aspnetCoreGitHash": "43bf870e2cf24349b4a784aea531082235845c8b",
+      "sdkGitHash": "f25f3107b3554e141cbd09113cccf6c321f45143",
+      "vmrGitHash": "df311e561f7f53880dfaa4b12df0eb75da8a7bce",
+      "runtimeCommitDateTime": "2026-03-25T01:01:01Z",
+      "runtimeCommitAuthor": "Larry Ewing",
+      "runtimeCommitMessage": "Use Framework SourceType for WASM pass-through assets in multi-client solutions (#125329)",
+      "aspnetCoreCommitDateTime": "2026-03-24T22:28:43Z",
+      "aspnetCoreVersion": "11.0.0-preview.3.26175.122",
+      "runtimePackVersion": "11.0.0-preview.3.26175.122",
+      "workloadVersion": "11.0.100-preview.3.26175.122",
+      "bootstrapSdkVersion": "11.0.100-preview.3.26170.106",
+      "releaseDate": "2026-03-25",
+      "major": 11,
+      "minor": 0,
+      "patch": 100,
+      "channel": "11.0",
+      "isPrerelease": true,
+      "benchmarkDateTime": "2026-03-27T23:37:23.789Z",
+      "ciRunId": "23670470468",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23670470468"
+    },
+    {
       "sdkVersion": "11.0.100-preview.3.26176.102",
       "runtimeGitHash": "210efc05611723fe2883a0a6411b6357dcd52327",
       "aspnetCoreGitHash": "43bf870e2cf24349b4a784aea531082235845c8b",
