@@ -1,0 +1,123 @@
+{
+  "lastUpdated": "2026-03-27T21:33:25.876Z",
+  "activeRelease": "",
+  "releases": [
+    "net8"
+  ],
+  "weeks": [],
+  "apps": [
+    "blazing-pizza",
+    "empty-blazor",
+    "empty-browser",
+    "havit-bootstrap",
+    "micro-benchmarks"
+  ],
+  "metrics": {
+    "blazing-pizza": [
+      "compile-time",
+      "disk-size-assemblies",
+      "disk-size-native",
+      "download-size-cold",
+      "download-size-warm",
+      "memory-peak",
+      "pizza-walkthrough",
+      "server-requests-cold",
+      "server-requests-warm",
+      "time-to-create-dotnet-cold",
+      "time-to-create-dotnet-warm",
+      "time-to-reach-managed-cold",
+      "time-to-reach-managed-warm",
+      "wasm-memory-size"
+    ],
+    "empty-blazor": [
+      "blazor-cs-to-js-json",
+      "blazor-cs-to-js-number",
+      "blazor-cs-to-js-string",
+      "blazor-js-to-cs-json",
+      "blazor-js-to-cs-number",
+      "blazor-js-to-cs-string",
+      "compile-time",
+      "counter-per-second",
+      "disk-size-assemblies",
+      "disk-size-native",
+      "download-size-cold",
+      "download-size-warm",
+      "memory-peak",
+      "server-requests-cold",
+      "server-requests-warm",
+      "time-to-create-dotnet-cold",
+      "time-to-create-dotnet-warm",
+      "time-to-reach-managed-cold",
+      "time-to-reach-managed-warm",
+      "virtual-scroll-per-second",
+      "wasm-memory-size"
+    ],
+    "empty-browser": [
+      "compile-time",
+      "disk-size-assemblies",
+      "disk-size-native",
+      "download-size-cold",
+      "download-size-warm",
+      "memory-peak",
+      "server-requests-cold",
+      "server-requests-warm",
+      "time-to-create-dotnet-cold",
+      "time-to-create-dotnet-warm",
+      "time-to-exit-cold",
+      "time-to-exit-warm",
+      "time-to-reach-managed-cold",
+      "time-to-reach-managed-warm",
+      "wasm-memory-size"
+    ],
+    "havit-bootstrap": [
+      "compile-time",
+      "disk-size-assemblies",
+      "disk-size-native",
+      "download-size-cold",
+      "download-size-warm",
+      "havit-walkthrough",
+      "memory-peak",
+      "server-requests-cold",
+      "server-requests-warm",
+      "time-to-create-dotnet-cold",
+      "time-to-create-dotnet-warm",
+      "time-to-reach-managed-cold",
+      "time-to-reach-managed-warm",
+      "wasm-memory-size"
+    ],
+    "micro-benchmarks": [
+      "compile-time",
+      "exception-ops",
+      "js-interop-ops",
+      "json-parse-ops",
+      "memory-peak",
+      "time-to-create-dotnet-cold",
+      "time-to-exit-cold",
+      "wasm-memory-size"
+    ]
+  },
+  "dimensions": {
+    "runtimes": [
+      "mono"
+    ],
+    "presets": [
+      "aot",
+      "dev-loop",
+      "invariant",
+      "native-relink",
+      "no-jiterp",
+      "no-reflection-emit",
+      "no-workload"
+    ],
+    "profiles": [
+      "desktop",
+      "mobile"
+    ],
+    "engines": [
+      "chrome",
+      "firefox",
+      "node",
+      "v8"
+    ]
+  }
+}
