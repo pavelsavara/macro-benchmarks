@@ -92,14 +92,6 @@ export const METRIC_DISPLAY = {
 // Build-time metrics are identical across engines/profiles — only show chrome/desktop
 export const BUILD_METRICS = new Set([
     'compile-time', 'disk-size-native', 'disk-size-assemblies', 'download-size-cold', 'download-size-warm', 'server-requests-cold', 'server-requests-warm',
-    'counter-per-second',
-    'virtual-scroll-per-second',
-    'blazor-js-to-cs-number',
-    'blazor-js-to-cs-string',
-    'blazor-js-to-cs-json',
-    'blazor-cs-to-js-number',
-    'blazor-cs-to-js-string',
-    'blazor-cs-to-js-json',
 ]);
 // Walkthrough metrics are only collected for chrome/desktop
 export const WALKTHROUGH_METRICS = new Set([
