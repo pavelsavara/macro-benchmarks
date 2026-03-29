@@ -1,6 +1,30 @@
 {
   "columns": [
     {
+      "sdkVersion": "11.0.100-preview.2.26112.110",
+      "runtimeGitHash": "56a1b4dc67607eb6f15388c4acfa01a61aca4d03",
+      "aspnetCoreGitHash": "f4d8b25fc3ded611373cb518a999c18295e0c100",
+      "sdkGitHash": "f44050fd77b0ada2439f217e98540329a8ee8e3c",
+      "vmrGitHash": "38e26770d7bb963fea81a75e0bef0431cd3f9da0",
+      "runtimeCommitDateTime": "2026-02-12T00:06:22Z",
+      "runtimeCommitAuthor": "Kevin Jones",
+      "runtimeCommitMessage": "Fix S.N.Tensors SLNX to remove project file that no longer exists (#124282)",
+      "aspnetCoreCommitDateTime": "2026-02-11T22:33:30Z",
+      "aspnetCoreVersion": "11.0.0-preview.2.26112.110",
+      "runtimePackVersion": "11.0.0-preview.2.26112.110",
+      "workloadVersion": "11.0.100-preview.2.26159.112",
+      "bootstrapSdkVersion": "11.0.100-preview.1.26104.118",
+      "releaseDate": "2026-02-12",
+      "major": 11,
+      "minor": 0,
+      "patch": 100,
+      "channel": "11.0",
+      "isPrerelease": true,
+      "benchmarkDateTime": "2026-03-29T15:22:08.939Z",
+      "ciRunId": "23710550816",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23710550816"
+    },
+    {
       "sdkVersion": "11.0.100-preview.2.26113.105",
       "runtimeGitHash": "08b21d2db2b51a73e8af45e470f940c146ce8e25",
       "aspnetCoreGitHash": "23e6a3a457e88f4463154c2b63b8787e9bf195fc",
