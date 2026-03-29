@@ -1,6 +1,30 @@
 {
   "columns": [
     {
+      "sdkVersion": "11.0.100-preview.3.26126.114",
+      "runtimeGitHash": "133c7bde3fb7dd914f423ffb3e408cc61787e0bb",
+      "aspnetCoreGitHash": "eec80e1c63963802a215d58b3907d6e46090fc28",
+      "sdkGitHash": "e90c4413024970eca97d05122243737aa207af11",
+      "vmrGitHash": "9cab7cc4343eedeb72a720a0a9d6d536e9bb8ecd",
+      "runtimeCommitDateTime": "2026-02-26T00:36:40Z",
+      "runtimeCommitAuthor": "Alan Hayward",
+      "runtimeCommitMessage": "Arm64: Add SM4 and SHA3 instructions (#124504)",
+      "aspnetCoreCommitDateTime": "2026-02-24T20:58:11Z",
+      "aspnetCoreVersion": "11.0.0-preview.3.26126.114",
+      "runtimePackVersion": "11.0.0-preview.3.26126.114",
+      "workloadVersion": "11.0.100-preview.3.26126.114",
+      "bootstrapSdkVersion": "11.0.100-preview.1.26104.118",
+      "releaseDate": "2026-02-26",
+      "major": 11,
+      "minor": 0,
+      "patch": 100,
+      "channel": "11.0",
+      "isPrerelease": true,
+      "benchmarkDateTime": "2026-03-29T06:25:02.658Z",
+      "ciRunId": "23702228386",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23702228386"
+    },
+    {
       "sdkVersion": "11.0.100-preview.3.26127.101",
       "runtimeGitHash": "133c7bde3fb7dd914f423ffb3e408cc61787e0bb",
       "aspnetCoreGitHash": "eec80e1c63963802a215d58b3907d6e46090fc28",
