@@ -1,6 +1,30 @@
 {
   "columns": [
     {
+      "sdkVersion": "11.0.100-preview.3.26153.109",
+      "runtimeGitHash": "9b46e58206b2695ad7089ceea0db93cad22abbd7",
+      "aspnetCoreGitHash": "5f2a8c66ade1d6e171be089d0d01cdc6d54a41a7",
+      "sdkGitHash": "166668d7c7c098fe501bcd0113e91eda042ea456",
+      "vmrGitHash": "3451f7f9d9c3c10f9a8e623985e573b2ff4d3361",
+      "runtimeCommitDateTime": "2026-03-01T22:32:42Z",
+      "runtimeCommitAuthor": "Larry Ewing",
+      "runtimeCommitMessage": "Skip NonBacktracking CharClassSubtraction_DeepNesting on browser-wasm (#125021)",
+      "aspnetCoreCommitDateTime": "2026-03-02T23:42:17Z",
+      "aspnetCoreVersion": "11.0.0-preview.3.26153.109",
+      "runtimePackVersion": "11.0.0-preview.3.26153.109",
+      "workloadVersion": "11.0.100-preview.3.26153.109",
+      "bootstrapSdkVersion": "11.0.100-preview.1.26104.118",
+      "releaseDate": "2026-03-03",
+      "major": 11,
+      "minor": 0,
+      "patch": 100,
+      "channel": "11.0",
+      "isPrerelease": true,
+      "benchmarkDateTime": "2026-03-29T02:22:01.949Z",
+      "ciRunId": "23698543173",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23698543173"
+    },
+    {
       "sdkVersion": "11.0.100-preview.3.26153.117",
       "runtimeGitHash": "9b46e58206b2695ad7089ceea0db93cad22abbd7",
       "aspnetCoreGitHash": "5f2a8c66ade1d6e171be089d0d01cdc6d54a41a7",
