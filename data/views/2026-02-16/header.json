@@ -1,6 +1,30 @@
 {
   "columns": [
     {
+      "sdkVersion": "11.0.100-preview.2.26122.107",
+      "runtimeGitHash": "a92d749b959d22aec0581508303125ae915bba60",
+      "aspnetCoreGitHash": "23e6a3a457e88f4463154c2b63b8787e9bf195fc",
+      "sdkGitHash": "e9d68d884cd44246e6d2d7fdb12714ff7618b90e",
+      "vmrGitHash": "e1a0fb23745648b7c69c990564b6db2d28abd473",
+      "runtimeCommitDateTime": "2026-02-17T01:19:01Z",
+      "runtimeCommitAuthor": "Egor Bogatov",
+      "runtimeCommitMessage": "Fix aspnet2 spmi collection script (#124399)",
+      "aspnetCoreCommitDateTime": "2026-02-13T00:45:50Z",
+      "aspnetCoreVersion": "11.0.0-preview.2.26122.107",
+      "runtimePackVersion": "11.0.0-preview.2.26122.107",
+      "workloadVersion": "11.0.100-preview.2.26159.112",
+      "bootstrapSdkVersion": "11.0.100-preview.1.26104.118",
+      "releaseDate": "2026-02-22",
+      "major": 11,
+      "minor": 0,
+      "patch": 100,
+      "channel": "11.0",
+      "isPrerelease": true,
+      "benchmarkDateTime": "2026-03-29T11:23:21.679Z",
+      "ciRunId": "23706629098",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23706629098"
+    },
+    {
       "sdkVersion": "11.0.100-preview.3.26118.109",
       "runtimeGitHash": "8e6e74e62ee844e9b36df891ee24637f95b288ce",
       "aspnetCoreGitHash": "23e6a3a457e88f4463154c2b63b8787e9bf195fc",
