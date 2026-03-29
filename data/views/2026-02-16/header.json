@@ -1,6 +1,30 @@
 {
   "columns": [
     {
+      "sdkVersion": "11.0.100-preview.3.26121.104",
+      "runtimeGitHash": "f8ac08f32b25431ca53e38ea45a5a78128c978e3",
+      "aspnetCoreGitHash": "23e6a3a457e88f4463154c2b63b8787e9bf195fc",
+      "sdkGitHash": "e90c4413024970eca97d05122243737aa207af11",
+      "vmrGitHash": "51587e2f3d5f86ca27184a6b5e8a778841d05b31",
+      "runtimeCommitDateTime": "2026-02-19T23:54:14Z",
+      "runtimeCommitAuthor": "Copilot",
+      "runtimeCommitMessage": "Skip unloadable-type tests under ReadyToRun; update ActiveIssue to #124031 (#124619)",
+      "aspnetCoreCommitDateTime": "2026-02-13T00:45:50Z",
+      "aspnetCoreVersion": "11.0.0-preview.3.26121.104",
+      "runtimePackVersion": "11.0.0-preview.3.26121.104",
+      "workloadVersion": "11.0.100-preview.3.26121.104",
+      "bootstrapSdkVersion": "11.0.100-preview.1.26104.118",
+      "releaseDate": "2026-02-21",
+      "major": 11,
+      "minor": 0,
+      "patch": 100,
+      "channel": "11.0",
+      "isPrerelease": true,
+      "benchmarkDateTime": "2026-03-29T08:01:09.459Z",
+      "ciRunId": "23703674833",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23703674833"
+    },
+    {
       "sdkVersion": "11.0.100-preview.3.26123.103",
       "runtimeGitHash": "f8ac08f32b25431ca53e38ea45a5a78128c978e3",
       "aspnetCoreGitHash": "23e6a3a457e88f4463154c2b63b8787e9bf195fc",
