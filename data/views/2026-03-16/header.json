@@ -1,7 +1,7 @@
 {
   "columns": [
     {
-      "sdkVersion": "11.0.100-preview.3.26172.101",
+      "sdkVersion": "11.0.100-preview.3.26171.106",
       "runtimeGitHash": "cf538052880522d398adf246ac80bb13de5d613a",
       "aspnetCoreGitHash": "faf0ea036dac4c02bbc0fd46e6e3a5039d08e1a5",
       "sdkGitHash": "31f158e4da31a48ca3f9a3db7c01dc975064d560",
@@ -10,19 +10,19 @@
       "runtimeCommitAuthor": "Dan Moseley",
       "runtimeCommitMessage": "Handle Capture nodes in TryGetOrdinalCaseInsensitiveString (#124842)",
       "aspnetCoreCommitDateTime": "2026-03-20T20:23:09Z",
-      "aspnetCoreVersion": "11.0.0-preview.3.26172.101",
-      "runtimePackVersion": "11.0.0-preview.3.26172.101",
-      "workloadVersion": "11.0.100-preview.3.26172.101",
+      "aspnetCoreVersion": "11.0.0-preview.3.26171.106",
+      "runtimePackVersion": "11.0.0-preview.3.26171.106",
+      "workloadVersion": "11.0.100-preview.3.26171.106",
       "bootstrapSdkVersion": "11.0.100-preview.3.26161.119",
-      "releaseDate": "2026-03-22",
+      "releaseDate": "2026-03-21",
       "major": 11,
       "minor": 0,
       "patch": 100,
       "channel": "11.0",
       "isPrerelease": true,
-      "benchmarkDateTime": "2026-03-30T01:11:42.847Z",
-      "ciRunId": "23722149669",
-      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23722149669"
+      "benchmarkDateTime": "2026-03-30T02:11:06.292Z",
+      "ciRunId": "23723747927",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23723747927"
     },
     {
       "sdkVersion": "11.0.100-preview.3.26172.107",
