@@ -1,6 +1,30 @@
 {
   "columns": [
     {
+      "sdkVersion": "11.0.100-preview.3.26172.108",
+      "runtimeGitHash": "443d53e25d035157b0640ddccf9a940265bfbccd",
+      "aspnetCoreGitHash": "3dafd5c3322983c6240ef6c53c58d75bcb31db95",
+      "sdkGitHash": "2122e7d265fdb191f9f770aa2cfa6e8a1c7bd136",
+      "vmrGitHash": "491bbab262d2f8179cf5f5651bc0689d9c12739a",
+      "runtimeCommitDateTime": "2026-03-23T00:45:55Z",
+      "runtimeCommitAuthor": "Copilot",
+      "runtimeCommitMessage": "Fix flaky NonPowerOfTwoKeySizeOaepRoundtrip test with retry on transient CryptographicException (#125911)",
+      "aspnetCoreCommitDateTime": "2026-03-22T06:28:01Z",
+      "aspnetCoreVersion": "11.0.0-preview.3.26172.108",
+      "runtimePackVersion": "11.0.0-preview.3.26172.108",
+      "workloadVersion": "11.0.100-preview.3.26172.108",
+      "bootstrapSdkVersion": "11.0.100-preview.3.26170.106",
+      "releaseDate": "2026-03-22",
+      "major": 11,
+      "minor": 0,
+      "patch": 100,
+      "channel": "11.0",
+      "isPrerelease": true,
+      "benchmarkDateTime": "2026-03-30T00:43:10.885Z",
+      "ciRunId": "23721738694",
+      "ciRunUrl": "https://github.com/pavelsavara/macro-benchmarks/actions/runs/23721738694"
+    },
+    {
       "sdkVersion": "11.0.100-preview.3.26174.105",
       "runtimeGitHash": "875672f5ce661b791d58bf8506fffe9c8c4a4a78",
       "aspnetCoreGitHash": "7ee3019308c266c38e9b09bec6c8b1f715c20d08",
